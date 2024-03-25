@@ -1,7 +1,7 @@
 ---
-name: "[타입] - 설명"
+name: Custom issue template
 about: 해당이슈 템플릿을 사용하여 이슈를 생성해주세요.
-title: ''
+title: "[타입] - 설명"
 labels: ''
 assignees: ''
 
